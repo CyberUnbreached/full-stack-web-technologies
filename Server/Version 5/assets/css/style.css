@@ -1,0 +1,138 @@
+/* Container */
+.container {
+    width: 45%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+/* Banner */
+.banner {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.banner-row {
+    background-color: #F2E2D2;
+    text-align: center;
+}
+
+.banner-title {
+    padding: 20px;
+}
+
+/* Navigation */
+.nav-row {
+    background-color: #BCC1BA;
+    text-align: center;
+}
+
+.nav-cell {
+    padding: 10px;
+}
+
+.nav-link {
+    text-decoration: none;  /* remove underline */
+    display: inline-block;
+    padding: 8px 15px;
+    color: black;
+}
+
+.nav-link:hover {
+    background-color: beige;
+}
+
+/* About Me / Contact Section */
+.about-me {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.section-title-row {
+    background-color: #9FB7B9;
+    text-align: center;
+}
+
+.section-title {
+    padding: 10px;
+}
+
+.section-content {
+    padding: 10px;
+}
+
+/* Images */
+.profile-image {
+    display: block;
+    margin-top: 10px;
+}
+
+/* Schedule Table */
+.schedule {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.schedule-title {
+    text-align: center;
+    background-color: #E6F0F2;
+    padding: 10px;
+}
+
+.schedule-subheader {
+    background-color: #F9F9F9;
+    text-align: left;
+}
+
+.schedule td, .schedule th {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.alt-row {
+    background-color: #F9F9F9;
+}
+
+/* Custom List Styling */
+.custom-list {
+    padding-left: 20px;
+    margin: 0;
+}
+
+/* Section Subtitle / Work Info */
+.current-occupation-row {
+    background-color: #46B1C9;
+    text-align: center;
+}
+
+.section-subtitle {
+    padding: 10px;
+}
+
+/* Section Content */
+.section-content {
+    padding: 10px;
+}
+
+/* Section Subtitles */
+.section-subtitle-row {
+    background-color: #46B1C9;
+    text-align: center;
+}
+
+.section-subtitle {
+    padding: 10px;
+}
+
+/* Section Content */
+.section-content {
+    padding: 10px;
+}
+
+/* Nested Lists */
+.custom-list {
+    margin: 0;
+    padding-left: 20px;
+}
+
